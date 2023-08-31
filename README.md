@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Svelte and SvelteKit**
 
-- 💬 Ask me about **React, JS, SKLearn, TensorFlow**
+- 💬 Ask me about **ReactJS, JavaScript, SQL, SKLearn, TensorFlow**
 
 - 📫 How to reach me **sprodaturu@gmail.com**
 
-- ⚡ Fun fact **We are in a simulation XD**
+- ⚡ Fun fact **We are in a simulation run by God**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
