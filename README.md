@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sprodaturu@gmail.com**
 
-- ⚡ Fun fact **We are in a simulation XD**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prodaturu saikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prodaturu saikiran" height="30" width="40" /></a>
