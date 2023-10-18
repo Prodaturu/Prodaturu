@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte and SvelteKit**
 
-- 💬 Ask me about ** C, ReactJS, JS, SKLearn, TensorFlow**
+- 💬 Ask me about **C, ReactJS, JS, SKLearn, TensorFlow**
 
 - 📫 How to reach me **sprodaturu@gmail.com**
 
