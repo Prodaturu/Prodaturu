@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=aad1e9&style=flat" alt="prodaturu" /> </p>
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **C, ReactJS, JS, SKLearn, TensorFlow**
 
