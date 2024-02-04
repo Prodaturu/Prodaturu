@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saikiran Prodaturu</h1>
 <h3 align="center">A passionate Full-stack Developer and Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=aad1e9&style=flat" alt="prodaturu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=0e75b6&style=flat" alt="prodaturu" /> </p>
 
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **C, ReactJS, JS, SKLearn, TensorFlow**
-
-- 📫 How to reach me **sprodaturu@gmail.com**
+- 🌱 I’m currently deepening my knowledge in **C++**.
+- 💬 Happy to chat about **C, ReactJS, JavaScript, SKLearn, TensorFlow**.
+- 📫 Reach me at **sprodaturu@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
