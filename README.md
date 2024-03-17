@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/sprodaturu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sprodaturu" height="30" width="40" /></a>
 </p>
 
-## Your Voice Matters 📢
+<h3 align="left"> Your Voice Matters 📢 </h3>
 
 I'm in a constant state of learning and improvement, much like the code I write. If you've got ideas, feedback, or enhancements, I'm all ears. Open an issue, submit a pull request, or simply share your thoughts. Together, we grow.
 
