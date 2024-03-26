@@ -15,7 +15,7 @@
 
 <h3 align="left"> Your Voice Matters 📢 </h3>
 
-I'm in a constant state of learning and improvement, much like the code I write. If you've got ideas, feedback, or enhancements, I'm all ears. Open an issue, submit a pull request, or simply share your thoughts. Together, we grow.
+I'm in a constant state of learning and improvement, much like the code I write. If you've got ideas, feedback, or enhancements, I'm all ears. Open an issue, submit a pull request on any projects or simply share your thoughts. Together, we grow.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
