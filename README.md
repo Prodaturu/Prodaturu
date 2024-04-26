@@ -30,6 +30,8 @@ I'm in a constant state of learning and improvement, much like the code I write.
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+[![sprodatu's 42 stats](https://badge.mediaplus.ma/greenbinary/sprodatu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodaturu&show_icons=true&locale=en&layout=compact" alt="prodaturu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prodaturu&show_icons=true&locale=en" alt="prodaturu" /></p>
