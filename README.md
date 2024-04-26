@@ -2,6 +2,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=0e75b6&style=flat" alt="prodaturu" /> </p>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sprodatu?1337Badge=off&UM6P=off" alt="sprodatu's 42 stats" align="right"/></a>
+
 - 🌱 I’m currently deepening my knowledge in **C++**.
 - 💬 Happy to chat about **C, ReactJS, JavaScript, SKLearn, TensorFlow**.
 - 📫 Reach me at **sprodaturu@gmail.com**.
@@ -33,7 +35,5 @@ I'm in a constant state of learning and improvement, much like the code I write.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodaturu&show_icons=true&locale=en&layout=compact" alt="prodaturu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prodaturu&show_icons=true&locale=en" alt="prodaturu" /></p>
-
-[![sprodatu's 42 stats](https://badge.mediaplus.ma/greenbinary/sprodatu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prodaturu&" alt="prodaturu" /></p>
