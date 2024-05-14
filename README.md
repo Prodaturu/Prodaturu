@@ -34,4 +34,4 @@ I'm in a constant state of learning and improvement, much like the code I write.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prodaturu&show_icons=true&locale=en" alt="prodaturu" /></p>
 
-<img align="right" alt="Prodaturu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prodaturu&show_icons=true&theme=radical" />
+<img alt="Prodaturu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prodaturu&show_icons=true&theme=radical" />
