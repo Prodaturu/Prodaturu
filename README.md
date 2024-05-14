@@ -2,10 +2,10 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=0e75b6&style=flat" alt="prodaturu" /> </p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sprodatu?1337Badge=off&UM6P=off" alt="sprodatu's 42 stats" align="right"/></a>
+<img align="right" alt="Prodaturu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prodaturu&show_icons=true&theme=radical" />
 
 - 🌱 I’m currently deepening my knowledge in **C++**.
-- 💬 Happy to chat about **C, ReactJS, JavaScript, SKLearn, TensorFlow**.
+- 💬 Happy to chat about **C, ReactJS, JavaScript, SKLearn, and TensorFlow**.
 - 📫 Reach me at **sprodaturu@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
