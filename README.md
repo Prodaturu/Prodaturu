@@ -33,3 +33,8 @@ I'm in a constant state of learning and improvement, much like the code I write.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodaturu&show_icons=true&locale=en&layout=compact&theme=radical" alt="prodaturu" /></p>
 
 <img alt="Prodaturu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prodaturu&show_icons=true&theme=radical" />
+
+<details>
+  <summary>Prodaturu's Coding Journey</summary>
+  Have been making bugs since 2019. 18 months of experience working as a software developer. Learning and teaching C/C++ to fellow peers at 42Heilbronn.
+</details>
