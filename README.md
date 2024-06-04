@@ -1,7 +1,8 @@
  
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikiran+Prodaturu;Proficient in C/CPP Python React; Experienced Full-Stack+Developer" alt="Typing SVG" /></a></h1>
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#Github-stats)
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#Github-stats)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="prodaturu views badge" /> </p>
 
@@ -33,7 +34,6 @@ I'm in a constant state of learning and improvement, much like the code I write.
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#Github-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodaturu&show_icons=true&locale=en&layout=compact&theme=radical" alt="prodaturu" /></p>
 
 <img alt="Prodaturu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prodaturu&show_icons=true&theme=radical" />
