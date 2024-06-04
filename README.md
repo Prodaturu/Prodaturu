@@ -33,6 +33,7 @@ I'm in a constant state of learning and improvement, much like the code I write.
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#Github-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodaturu&show_icons=true&locale=en&layout=compact&theme=radical" alt="prodaturu" /></p>
 
 <img alt="Prodaturu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prodaturu&show_icons=true&theme=radical" />
