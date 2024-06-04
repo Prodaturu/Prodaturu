@@ -1,5 +1,6 @@
  
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikiran+Prodaturu;Proficient in C/CPP Python React; Experienced Full-Stack+Developer" alt="Typing SVG" /></a></h1>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#Github-stats)
 
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
