@@ -13,8 +13,6 @@
 - 💬 Happy to chat about **C, ReactJS, JavaScript, SKLearn, and TensorFlow**.
 - 📫 Reach me at **sprodaturu@gmail.com**.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prodaturu saikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prodaturu saikiran" height="30" width="40" /></a>
@@ -22,13 +20,9 @@
 <a href="https://www.leetcode.com/sprodaturu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sprodaturu" height="30" width="40" /></a>
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+)
-
 <h3 align="left"> Your Voice Matters 📢 </h3>
 
 I'm in a constant state of learning and improvement, much like the code I write. If you've got ideas, feedback, or enhancements, I'm all ears. Open an issue, submit a pull request on any projects or simply share your thoughts. Together, we grow.
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -46,8 +40,6 @@ I'm in a constant state of learning and improvement, much like the code I write.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodaturu&show_icons=true&locale=en&layout=compact&theme=radical" alt="prodaturu" /></p>
 
 <img alt="Prodaturu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prodaturu&show_icons=true&theme=radical" />
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+)
 
 <details>
   <summary> 👨‍💻 Prodaturu's Coding Journey</summary>
