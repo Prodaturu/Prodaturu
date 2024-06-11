@@ -9,7 +9,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+) 
 
-- 🌱 I’m currentlyworking with **Ray-casting in C**.
+- 🌱 I’m currently working on **Ray-casting in C**.
 - 💬 Happy to chat about **C, C++, ReactJS, JavaScript, SKLearn, and TensorFlow**.
 - 📫 Reach me at **sprodaturu@gmail.com**.
 
