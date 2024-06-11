@@ -9,8 +9,8 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+) 
 
-- 🌱 I’m currently deepening my knowledge in **C++**.
-- 💬 Happy to chat about **C, ReactJS, JavaScript, SKLearn, and TensorFlow**.
+- 🌱 I’m currentlyworking with **Ray-casting in C**.
+- 💬 Happy to chat about **C, C++, ReactJS, JavaScript, SKLearn, and TensorFlow**.
 - 📫 Reach me at **sprodaturu@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
