@@ -5,7 +5,9 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="prodaturu views badge" /> </p>
+<p align="right"> 
+ <a href="https://wakatime.com/@239a0a1f-a126-43cb-92f0-222845197ce4"><img src="https://wakatime.com/badge/user/239a0a1f-a126-43cb-92f0-222845197ce4.svg" alt="Total time coded since Feb 22 2023" /></a>
+ <img src="https://komarev.com/ghpvc/?username=prodaturu&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="prodaturu views badge" /> </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+) 
 
