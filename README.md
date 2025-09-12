@@ -11,7 +11,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+) 
 
-- 🌱 I’m currently working on **Ray-tracing in C**.
+- 🌱 I’m currently working on **Ray-tracing**.
 - 💬 Happy to chat about **C, C++, ReactJS, JavaScript, SKLearn, and TensorFlow**.
 - 📫 Reach me at **sprodaturu@gmail.com**.
 
