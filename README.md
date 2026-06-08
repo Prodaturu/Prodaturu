@@ -43,5 +43,5 @@ I'm in a constant state of learning and improvement, much like the code I write.
 <details>
   <summary> 👨‍💻 Prodaturu's Coding Journey</summary>
   <br>
-  Have been making bugs and solving them since 2019.<br>18 months of experience working as a software developer.<br>Learning and teaching C/C++ to fellow peers at 42Heilbronn.
+  Have been making bugs and solving them since 2019.
 </details>
