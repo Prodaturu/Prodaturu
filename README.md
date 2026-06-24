@@ -8,7 +8,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#+) 
 
-- 🌱 I’m currently working on **Ray-tracing**.
+- 🌱 I’m currently working on **Mobile Apps and Agentic AI**.
 - 💬 Happy to chat about **C, C++, ReactJS, JavaScript, SKLearn, and TensorFlow**.
 - 📫 Reach me at **sprodaturu@gmail.com**.
 
